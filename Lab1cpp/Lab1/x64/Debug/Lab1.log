@@ -1,0 +1,6 @@
+﻿  Lab1.cpp
+C:\Users\mehme\OneDrive\Masaüstü\4.Sınıf 2.dönem lablar\Computer Graphics Prog\1.Lab\lab1_Kulubecioglu_Mehmet\Lab1cpp\Lab1\Lab1.cpp(18,26): warning C4244: '=': 'double' - 'LONG' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\4.Sınıf 2.dönem lablar\Computer Graphics Prog\1.Lab\lab1_Kulubecioglu_Mehmet\Lab1cpp\Lab1\Lab1.cpp(19,26): warning C4244: '=': 'double' - 'LONG' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\4.Sınıf 2.dönem lablar\Computer Graphics Prog\1.Lab\lab1_Kulubecioglu_Mehmet\Lab1cpp\Lab1\Lab1.cpp(26,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\mehme\OneDrive\Masaüstü\4.Sınıf 2.dönem lablar\Computer Graphics Prog\1.Lab\lab1_Kulubecioglu_Mehmet\Lab1cpp\Lab1\Lab1.cpp(27,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Lab1.vcxproj -> C:\Users\mehme\OneDrive\Masaüstü\4.Sınıf 2.dönem lablar\Computer Graphics Prog\1.Lab\lab1_Kulubecioglu_Mehmet\Lab1cpp\x64\Debug\Lab1.exe
