@@ -1,0 +1,1 @@
+# -Familiarization-with-the-basic-tools-of-computer-graphics-of-some-operating-platforms
